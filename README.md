@@ -12,17 +12,19 @@ I'm a passionate and determined BS Software Engineering student currently in my 
 *Programming Languages*: C, C++  
 *Learning Path*: Building a strong foundation in software development and exploring new technologies. 
 
-<h2 align="center">🚀 Technologies & Tools</h2>
+
+## 🚀 Tech Stack & Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=black" style="border-radius: 25px; margin: 10px;"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black" style="border-radius: 25px; margin: 10px;"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black" style="border-radius: 25px; margin: 10px;"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black" style="border-radius: 25px; margin: 10px;"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black" style="border-radius: 25px; margin: 10px;"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=black" style="border-radius: 25px; margin: 10px;"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" style="border-radius: 25px; margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="70" height="70" style="margin: 15px; border-radius: 50px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="70" height="70" style="margin: 15px; border-radius: 50px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70" style="margin: 15px; border-radius: 50px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="70" height="70" style="margin: 15px; border-radius: 50px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="70" height="70" style="margin: 15px; border-radius: 50px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="70" height="70" style="margin: 15px; border-radius: 50px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="70" height="70" style="margin: 15px; border-radius: 50px;">
 </p>
+
 
 
 
