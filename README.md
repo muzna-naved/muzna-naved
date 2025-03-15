@@ -12,7 +12,6 @@ I'm a passionate and determined BS Software Engineering student currently in my 
 *Programming Languages*: C, C++  
 *Learning Path*: Building a strong foundation in software development and exploring new technologies. 
 
-
 ## 🚀 Tech Stack & Skills
 
 <p align="center">
@@ -22,8 +21,9 @@ I'm a passionate and determined BS Software Engineering student currently in my 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin: 10px; border-radius: 50px; background-color: white; padding: 8px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin: 10px; border-radius: 50px; background-color: white; padding: 8px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50" style="margin: 10px; border-radius: 50px; background-color: white; padding: 8px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50" height="50" style="margin: 10px; border-radius: 50px; background-color: white; padding: 8px;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50" style="margin: 10px; border-radius: 50px; background-color: white; padding: 8px;">
 </p>
+
 
 
 
