@@ -1,5 +1,5 @@
 **Hi there! 👋🏻 I'm Muzna Naveed**  
-I'm a passionate and determined BS Software Engineering student currently in my 1st semester. I’m currently learning C++ and am excited to explore and master new technologies.  
+I'm a passionate and determined BS Software Engineering student currently in my second semester. I’m currently learning C++ and am excited to explore and master new technologies.  
 
 **About Me**  
 🌟 Aspiring Developer with a keen interest in learning and growing in the world of programming.  
