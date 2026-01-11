@@ -5,15 +5,21 @@ I am a motivated BS Software Engineering student at UBIT, University of Karachi,
 About Me
 
 🌟 Aspiring software developer with a strong interest in continuous learning
+
 💻 Experience working with HTML, CSS, and Tailwind CSS through academic and personal projects
+
 📘 Completed Object-Oriented Programming (OOP) using Java
+
 🌱 Currently learning Data Structures and Algorithms (DSA) in C++
+
 ❤️ Passionate about coding, problem-solving, and writing clean code
 
 Skills
 
 Frontend: HTML, CSS, Tailwind CSS
+
 Programming Languages: C, C++, Java
+
 Currently Learning: Data Structures & Algorithms (C++)
 
 🚀 Tech Stack & Skills
